@@ -5,8 +5,6 @@ My name is Karol Waliszewski. I am a student of the Wrocław University of Techn
 
 I am currently working as Web Developer and create many advanced web applications at my job. If I have some time I also work on my personal side projects, which you can check on my GitHub :)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karolwaliszewski@gmail.com)](mailto:karolwaliszewski@gmail.com) - [karolwaliszewski@gmail.com](mailto:karolwaliszewski@gmail.com)
-
 ## Technologies :wrench::
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
