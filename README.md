@@ -1,7 +1,7 @@
 # Hi there, Karol Waliszewski here 👋
 
 ## About me 😄
-My name is Karol Waliszewski. I am a student of the Wrocław University of Technology with a passion for programming and street training. Since I had access to games, I preferred to edit them than play them, but my adventure with programming began at the beginning of high school. I was learning C++ at first, but after some time I tried Web Development and that was it! 
+My name is Karol Waliszewski. I am a student of the Wrocław University of Technology with a passion for programming and street workout. Since I had access to games, I preferred to edit them than play them, but my adventure with programming began at the beginning of high school. I was learning C++ at first, but after some time I tried Web Development and that was it! 
 
 I am currently working as Web Developer and create many advanced web applications at my job. If I have some time I also work on my personal side projects, which you can check on my GitHub :)
 
